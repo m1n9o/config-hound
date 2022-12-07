@@ -1,2 +1,2 @@
-# super-yaml
+# Config Hound
 
